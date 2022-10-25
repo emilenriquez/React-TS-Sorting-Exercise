@@ -1,0 +1,21 @@
+.slidecontainer {
+  width: 100%;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider{
+  width: 100%;
+}
+
+.min{
+  width: 50%;
+  text-align: left;
+}
+
+.max{
+  /* min-width: 33.33%; */
+  text-align: right;
+}

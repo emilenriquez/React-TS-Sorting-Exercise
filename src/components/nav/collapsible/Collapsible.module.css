@@ -1,0 +1,22 @@
+.toggleButton{
+  background: none;
+  border: 0;
+  cursor: pointer;
+  font-size:12pt;
+  color: #056050;
+  padding-top: 0.3em;
+}
+
+.wrapper:before{
+  list-style-type: none;
+}
+
+.wrapper:hover{
+  cursor: pointer;
+}
+
+.activeNav{
+  font-weight: 800;
+  /* color: #002f6c; */
+  color: #003d33;
+}

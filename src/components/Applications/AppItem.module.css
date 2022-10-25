@@ -1,0 +1,16 @@
+.container{
+  background: #e1f5fe;
+  padding: 1em;
+  width: 12em;
+  text-align: center;
+  border-radius: 0.5em;
+  color:teal;
+}
+
+.title{
+  padding: 0;
+  margin: 5px 0px;
+  padding-bottom: 5px;
+  color: #212121;
+
+}
