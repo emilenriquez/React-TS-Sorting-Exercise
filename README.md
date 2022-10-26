@@ -1,6 +1,8 @@
 # React Filtering Exercise
+![Archax React Exercise wireframe](/react-ts-filter.gif)
 
-This exercise is to help us better understand react and typescript
+
+This exercise is to help us better understand react and typescript.
 
 
 ## Setup
@@ -23,7 +25,7 @@ Each application has 3 levels of business capabilities. Business capabilities ar
 ## Capabilities
 
 - request the dataset.
-- builds hierarchical navigation tree displaying the different levels of business capabilities. The nav can be expanded and collapsed. 
+- builds hierarchical navigation tree displaying the different levels of business capabilities. The nav can be expanded and collapsed.
 - Filtering through unlimited combination of the business capabilities
 - a range slider which is able to further filter the dataset based on the spending value
 
