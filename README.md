@@ -1,4 +1,4 @@
-# React Filtering Exercise
+# React Typescript Filtering Exercise
 ![Archax React Exercise wireframe](/react-ts-filter.gif)
 
 
